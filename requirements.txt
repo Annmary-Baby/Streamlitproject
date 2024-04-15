@@ -1,0 +1,6 @@
+easyocr
+streamlit
+numpy 
+pyperclip
+nltk
+matplotlib
